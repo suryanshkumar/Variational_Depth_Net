@@ -1,0 +1,7 @@
+@InProceedings{liu2023vadepthnet,
+    title     = {{VA}-DepthNet: A Variational Approach to Single Image Depth Prediction},
+    author    = {Liu, Ce and Kumar, Suryansh and Gu, Shuhang and Timofte, Radu and Van Gool, Luc},
+    booktitle = {The Eleventh International Conference on Learning Representations (ICLR)},
+    month     = {May},
+    year      = {2023}
+}
